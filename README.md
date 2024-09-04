@@ -47,3 +47,5 @@
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp
 </div>
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rani0707&show_icons=true&theme=radical)
