@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp
 </div>
 
