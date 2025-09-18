@@ -1,7 +1,7 @@
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 Rani's GitHub </h2>
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-    <p style="margin: 8px 0 4px 0;">Hi — I’m a developer based in Korea.</p>
+    <p style="margin: 8px 0 4px 0;">Hi Im a developer based in Korea.</p>
     <p style="margin: 0;">Discord: <strong>rani0001</strong> &nbsp;·&nbsp; Email: <strong>Coming soon</strong></p>
   </div>
 </div>
