@@ -1,6 +1,6 @@
 <div align="left">
   <h1>👋 Hi, I'm Rani</h1>
-  <p><strong>Developer based in Korea</strong></p>
+  <p><strong>Developer based in South Korea</strong></p>
   <p>
     Discord: <strong>rani0001</strong>
     &nbsp;·&nbsp;
@@ -73,15 +73,4 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rani0707&layout=compact&theme=tokyonight&hide_border=true"
     />
   </p>
-</div>
-
-<br />
-
-<div align="left">
-  <h2>🚀 About Me</h2>
-  <ul>
-    <li>Interested in web development, backend systems, and cloud infrastructure</li>
-    <li>Building with React, Next.js, Node.js, and Python</li>
-    <li>Exploring Docker, AWS, Cloudflare, and cross-platform environments</li>
-  </ul>
 </div>
