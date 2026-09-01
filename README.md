@@ -4,7 +4,7 @@
   <p>
     Discord: <strong>rani0001</strong>
     &nbsp;·&nbsp;
-    Email: <strong>Coming soon</strong>
+    Email: <strong>support@raniweb.kr</strong>
   </p>
 </div>
 
